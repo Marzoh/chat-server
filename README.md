@@ -1,4 +1,4 @@
-# Single Threaded Socket Chat Server And Client Coded In Python3.10.1
+# READ IN RAW MODE!
 
 <!-- PS -->
 
